@@ -12,9 +12,9 @@ Este é um **projeto simples de aplicação web**, desenvolvido para registrar, 
 ---
 
 ## Tecnologias utilizadas
-- 🌐 HTML5  
-- 🎨 CSS3  
-- 🟨 JavaScript  
+-  HTML5  
+-  CSS3  
+- JavaScript  
 
 ---
 
